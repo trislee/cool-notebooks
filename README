@@ -1,8 +1,8 @@
 This repo contains Jupyter notebooks that make interesting plots, including
   
   - An RK4 solver for the Lorenz system (Lorenz.ipynb) 
-    ![](https://imgur.com/a/XVsvP)
+    ![](https://imgur.com/a/XVsvP.gif)
   - A bifurcation plot generator for the Henon map (Henon.ipynb)
-    ![](https://imgur.com/a/61EYj)
+    ![](https://imgur.com/a/61EYj.gif)
 
 Licensed under the WTFPL (Do What the Fuck You Want To Public License)
